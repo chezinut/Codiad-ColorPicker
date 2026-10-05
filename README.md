@@ -1,6 +1,6 @@
 # Color Picker
 
-This plugin displays a HEX and RGB color chooser/modification utility through the [Codiad](http://www.codiad.com) user interface.
+This plugin displays a HEX and RGB color chooser/modification utility through the [Codiad](https://github.com/Codiad/Codiad) user interface.
 
 # Installation
 
